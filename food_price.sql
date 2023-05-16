@@ -16,5 +16,4 @@ WHERE
 GROUP BY
 	commodity
  ORDER BY 
- 	ChangePCT DESC
-LIMIT 5 ;
+ 	ChangePCT DESC;
